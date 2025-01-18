@@ -1,4 +1,4 @@
-This is a file
-# Feature2 Changes
-This is an edit made in feature2 branch.
+
+# Combined Changes
+This is an edit made in feature2 branch and feature3 branch.
 
